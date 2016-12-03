@@ -1,4 +1,4 @@
-IICSCI 544 - Group 54
+CSCI 544 - Group 54
 Identify Keywords and Tags from Millions of Text Questions
 
 This repository contains all the codes we implemented to do this project. 
