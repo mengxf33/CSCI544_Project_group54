@@ -1,7 +1,13 @@
-CSCI 544 - Group 54
+IICSCI 544 - Group 54
 Identify Keywords and Tags from Millions of Text Questions
 
-This repository contains all the codes we implemented to do this project. Detailed description of each python script is as following.
+This repository contains all the codes we implemented to do this project. 
+
+The data set is too large to be put here. You can find both raw data and processed data in the following link.
+https://drive.google.com/drive/folders/0B-EG0ov71D8DS1o5ck44TEhUN00?usp=sharing
+
+
+Detailed description of each python script is as following.
 
 ########################################################################################################################################
 create_toy_dataset.py: sample small training and testing sets.
