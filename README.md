@@ -3,8 +3,7 @@ Identify Keywords and Tags from Millions of Text Questions
 
 This repository contains all the codes we implemented to do this project. Detailed description of each python script is as following.
 
-########################################################################################################################################################################################################################################################
-
+########################################################################################################################################
 create_toy_dataset.py: sample small training and testing sets.
 
 preprocess.py: utilities to read data and preprocess title including tokenization, stop words removal and punctuation removal.
@@ -53,4 +52,3 @@ He Luan
 Ye Wang
 
 December 2nd, 2016
-
